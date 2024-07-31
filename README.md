@@ -1,4 +1,4 @@
-# QRMEN-
+<h1>QR MENÜ<</h1>
 # Yemek Menüsü Uygulaması
 
 Bu proje, HTML, CSS ve JavaScript kullanarak oluşturulmuş basit bir yemek menüsü uygulamasıdır.

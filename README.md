@@ -13,4 +13,4 @@ Bu proje, HTML, CSS ve JavaScript kullanarak oluşturulmuş basit bir yemek men�
 Bu projeyi çalıştırmak için aşağıdaki gereksinimlere ihtiyaç vardır:
 - Bir web tarayıcısı (Google Chrome, Mozilla Firefox, Safari, vb.)
 
-![](qr menü gif.gif)
+![](qrmenü.gif)
